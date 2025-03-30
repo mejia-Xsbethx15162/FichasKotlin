@@ -13,6 +13,6 @@ Tipo de Variables:
   Boolean: Este tipo de variable se utiliza para datos o valores logicos "True o False".
 
 Cabe aclarar que las variables deben de ser tipadas como val o var segun si van a ser variables mutables en las cuales utilizaremos var o inmutables en las cuales utilizamos val.
-
+-----------
 2.Ejemplo:
   
